@@ -9,7 +9,7 @@ Local Kubernetes progressive delivery lab for canary releases, promotion, pause,
 
 Release strategy step: after GitOps, I focused on safer releases using canary deployment and rollback workflows.
 
-This repo is part of my 12-project DevOps portfolio path. The goal is to show steady growth from CI/CD foundations into AWS cloud, Kubernetes, GitOps, observability, DevSecOps, progressive delivery, and AI-enabled deployments.
+This repo is part of my 12-project DevOps portfolio pa th. The goal is to show steady growth from CI/CD foundations into AWS cloud, Kubernetes, GitOps, observability, DevSecOps, progressive delivery, and AI-enabled deployments.
 
 ## What This Project Demonstrates
 
