@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
-  name: demo-rollout
+  name: demo-rollout 
   namespace: progressive-delivery
 spec:
   replicas: 4
