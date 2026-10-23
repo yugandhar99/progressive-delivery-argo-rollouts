@@ -1,4 +1,4 @@
-# Progressive Delivery with Argo Rollouts
+# Progressive Delivery with Argo Rollouts 
 
 > **Stage 9 of 12 — Career Progression Project**  
 > Portfolio project by **Yugandhar Ethamukkala**.
